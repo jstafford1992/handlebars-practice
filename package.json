@@ -1,7 +1,7 @@
 {
   "name": "handlebars-practice",
   "version": "1.0.0",
-  "description": "",
+  "description": "Handlebars/Express practice",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
